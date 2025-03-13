@@ -1,7 +1,5 @@
 # awesome-academic-drawio
 
-# Awesome Academic Drawio
-
 This repository replicates figures from top CS conferences and journals (IEEE, ACM, etc.) by providing editable, combinable diagram elements using Draw.io. Feel free to mix and match diagram elements to create improved visuals based on these.
 
 ## Table of Diagrams
